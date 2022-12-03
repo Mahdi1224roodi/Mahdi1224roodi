@@ -14,7 +14,7 @@
 <a href="https://codepen.io/mahdi1224roodi"><img align="left" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" alt="..." width="21px"/></a>
 <a href="https://www.linkedin.com/in/mahdi1224roodi/"><img align="left" src="https://user-images.githubusercontent.com/108976550/205439314-6c244884-b22d-4e2a-b83b-94377b88a301.png" alt="..." width="21px"/></a>
 <a href="https://t.me/Mahdi1224R"><img align="left" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" alt="..." width="21px"/></a>
-<a href="https://www.instagram.com/mahdi1224roodi"><img align="left" src="https://user-images.githubusercontent.com/108976550/205439420-4acda2ac-ba3d-437e-b373-04e0e78929d7.png" alt="..." width="21px"/></a>
+<a href="https://www.instagram.com/mahdi1224roodi"><img align="left" src="https://user-images.githubusercontent.com/108976550/205439420-4acda2ac-ba3d-437e-b373-04e0e78929d7.png" alt="..." width="21px"/></a><br>
 
 Socials <br>
 <a href="#">linkedin logo twitter logo instagram logo telegram logo codepen logo stackoverflow logo</a>
