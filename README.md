@@ -8,8 +8,8 @@
 🌱 I’m currently learning C#<br>
 📫 You can contact me by email: mahdi1224roodi@gmail.com<br>
 🌐 My Website: ...<br>
-<hr size="80%" color="orange">
-### 🤝 Connect with me:
+<hr>
+<h3>🤝 Connect with me:</h3>
 
 <a href="https://codepen.io/mahdi1224roodi"><img align="left" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" alt="..." width="21px"/></a>
 <a href="https://www.linkedin.com/in/mahdi1224roodi/"><img align="left" src="https://user-images.githubusercontent.com/108976550/205439314-6c244884-b22d-4e2a-b83b-94377b88a301.png" alt="..." width="21px"/></a>
