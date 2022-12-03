@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://bahalmag.ir/wp-content/uploads/2020/02/photo-1550645612-83f5d594b671-768x512.jpg" alt="...">
+ <img style="height:10%;" src="https://bahalmag.ir/wp-content/uploads/2020/02/photo-1550645612-83f5d594b671-768x512.jpg" alt="...">
 </p>
 <h1>👋 Hi, I’m MohammadMahdiRoodbarani</h1>
 🎭You can call me Kamran<br>
