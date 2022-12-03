@@ -7,7 +7,7 @@
 🌐 My Website: ...<br>
 
 My Skills
-html5 logo css3 logo bootstrap logo javascript logo react logo csharp logo php logo wordpress logo
+<a>html5 logo css3 logo bootstrap logo javascript logo react logo csharp logo php logo wordpress logo</a>
 
 Socials
 linkedin logo twitter logo instagram logo telegram logo codepen logo stackoverflow logo
