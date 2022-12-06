@@ -18,5 +18,3 @@
 <a href="https://stackoverflow.com/users/20341419/mahdi"><img align="left" src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="..." width="21px"/></a>
 <a href="https://stackoverflow.com/users/20341419/mahdi"><img align="left" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" alt="..." width="21px"/></a><br>
 
-Socials <br>
-<a href="#">linkedin logo twitter logo instagram logo telegram logo codepen logo stackoverflow logo</a>
