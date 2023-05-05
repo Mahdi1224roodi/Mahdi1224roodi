@@ -5,7 +5,7 @@
 
 🎯 I came here to participate in open source projects and develop myself<br>
 👀 I’m Front-End-Developer<br>
-🌱 I’m currently learning JavaScript<br>
+🌱 I’m currently learning JavaScript and more...<br>
 📫 You can contact me by email: mahdi1224roodi@gmail.com<br>
 🌐 My Website: ...<br>
 <hr>
